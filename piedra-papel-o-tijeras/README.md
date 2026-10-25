@@ -1,6 +1,6 @@
 # Piedra, papel o tijeras
 
-Proyecto olvidado de mis primeros pasos con Python (noviembre de 2022 a abril de 2023). Empezó como un juego simple siguiendo lo que enseñaban en clases y videos, y después lo reorganicé. El README que tenía está en `README-original.md`.
+Proyecto olvidado de mis primeros pasos con Python. Empezó como un juego simple siguiendo lo que enseñaban en clases y videos, y después lo reorganicé. El README que tenía está en `README-original.md`.
 
 ## Qué hice
 

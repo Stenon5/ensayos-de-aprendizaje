@@ -1,6 +1,6 @@
 # Curso de Python: pip y entornos virtuales
 
-Proyecto olvidado de un curso de Python sobre pip, entornos virtuales y librerías externas (mayo de 2023). Lo seguí junto a las clases y quedó casi terminado, como dice su último commit. El README del curso está en `README-original.md`.
+Proyecto olvidado de un curso de Python sobre pip, entornos virtuales y librerías externas. Lo seguí junto a las clases y quedó casi terminado, como dice su último commit. El README del curso está en `README-original.md`.
 
 ## Qué hice
 

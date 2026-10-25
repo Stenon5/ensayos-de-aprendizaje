@@ -1,6 +1,6 @@
 # Primeros pasos con Playwright
 
-Proyecto olvidado de cuando empecé a ver Playwright para automatizar el navegador (abril de 2026). Es el proyecto de ejemplo que crea Playwright al iniciarse, con la idea de usarlo después para hacer scraping.
+Proyecto olvidado de cuando empecé a ver Playwright para automatizar el navegador. Es el proyecto de ejemplo que crea Playwright al iniciarse, con la idea de usarlo después para hacer scraping.
 
 ## Qué hice
 

@@ -6,7 +6,7 @@ Práctica del curso de Git y GitHub de Platzi. El curso usa un blog de ejemplo, 
 
 - Seguí el curso, que enseña los comandos de Git (commits, ramas, merges y tags) y el flujo de trabajo de GitHub.
 - Hice un fork del blog del curso para practicar en mi propia copia.
-- Al terminar agregué mi nombre a la lista de estudiantes en `blogpost.html` (diciembre de 2022).
+- Al terminar agregué mi nombre a la lista de estudiantes en `blogpost.html`.
 
 ## Archivos
 

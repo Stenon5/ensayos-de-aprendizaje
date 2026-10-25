@@ -1,6 +1,6 @@
 # Pensamiento computacional con Python
 
-Ejercicios olvidados de un curso de pensamiento computacional con Python (abril de 2023). Los fui escribiendo mientras seguía las clases, así que algunos quedaron a medio hacer.
+Ejercicios olvidados de un curso de pensamiento computacional con Python. Los fui escribiendo mientras seguía las clases, así que algunos quedaron a medio hacer.
 
 ## Qué hice
 

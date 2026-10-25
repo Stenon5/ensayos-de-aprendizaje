@@ -1,6 +1,6 @@
 # Curso de Jenkins
 
-Trabajos olvidados del curso de Jenkins de Platzi (marzo de 2023). Instalé Jenkins de dos formas y armé los ejercicios del curso. Aquí está solo la configuración de cada trabajo, el `config.xml` que guarda Jenkins. No hay credenciales.
+Trabajos olvidados del curso de Jenkins de Platzi. Instalé Jenkins de dos formas y armé los ejercicios del curso. Aquí está solo la configuración de cada trabajo, el `config.xml` que guarda Jenkins. No hay credenciales.
 
 ## Qué hice
 

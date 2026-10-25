@@ -1,6 +1,6 @@
 # Base de datos MySQL para un blog
 
-Práctica de diseño de bases de datos con MySQL Workbench (noviembre de 2022). Armé la base de datos `platziblog`, el ejemplo de blog que usa Platzi, para una página de publicaciones.
+Práctica de diseño de bases de datos con MySQL Workbench. Armé la base de datos `platziblog`, el ejemplo de blog que usa Platzi, para una página de publicaciones.
 
 ## Qué hice
 
